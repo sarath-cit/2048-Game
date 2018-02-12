@@ -1,0 +1,2 @@
+# 2048-Game
+The objective of this game is to get 2048 in any one of the squares in 4X4 grid by combining numbered tiles. Tiles with the same number will combine if we move accordingly. Arrow keys are used to move tiles. For each move, randomly either 2 or 4 will appear in empty tile. If player is unable to move any tiles i.e. no consecutive tiles have same number, then player will lose game. High score will be stored.
